@@ -1,0 +1,4 @@
+DROP TABLE IF EXISTS b_message;
+DROP TABLE IF EXISTS b_location;
+DROP TABLE IF EXISTS b_event;
+DROP TABLE IF EXISTS b_stream;

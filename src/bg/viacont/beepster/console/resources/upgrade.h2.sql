@@ -1,0 +1,1 @@
+ALTER TABLE b_settings ADD IF NOT EXISTS b_real_time_track BOOLEAN;
